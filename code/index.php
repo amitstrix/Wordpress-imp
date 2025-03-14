@@ -1,10 +1,4 @@
-First Details: FTP DETAILS
-
-FTP Username: strix8ds@beta.strixdevelopment.net
-FTP server: ftp.strixdevelopment.net
-Password: vZv!5e)^rdo3
-
-Second Details: Wordpress
+First Details: Wordpress
 
 Custom Post Generator
 https://generatewp.com/post-type/
